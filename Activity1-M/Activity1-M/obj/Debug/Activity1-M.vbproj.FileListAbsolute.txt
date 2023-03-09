@@ -1,0 +1,12 @@
+D:\2nd year_1st sem subjects\Fundamentals of Database Systems (Lab)\Activity1-M\Activity1-M\bin\Debug\Activity1-M.exe.config
+D:\2nd year_1st sem subjects\Fundamentals of Database Systems (Lab)\Activity1-M\Activity1-M\bin\Debug\Activity1-M.exe
+D:\2nd year_1st sem subjects\Fundamentals of Database Systems (Lab)\Activity1-M\Activity1-M\bin\Debug\Activity1-M.pdb
+D:\2nd year_1st sem subjects\Fundamentals of Database Systems (Lab)\Activity1-M\Activity1-M\bin\Debug\Activity1-M.xml
+D:\2nd year_1st sem subjects\Fundamentals of Database Systems (Lab)\Activity1-M\Activity1-M\obj\Debug\Activity1-M.vbproj.AssemblyReference.cache
+D:\2nd year_1st sem subjects\Fundamentals of Database Systems (Lab)\Activity1-M\Activity1-M\obj\Debug\Activity1_M.Form1.resources
+D:\2nd year_1st sem subjects\Fundamentals of Database Systems (Lab)\Activity1-M\Activity1-M\obj\Debug\Activity1_M.Resources.resources
+D:\2nd year_1st sem subjects\Fundamentals of Database Systems (Lab)\Activity1-M\Activity1-M\obj\Debug\Activity1-M.vbproj.GenerateResource.cache
+D:\2nd year_1st sem subjects\Fundamentals of Database Systems (Lab)\Activity1-M\Activity1-M\obj\Debug\Activity1-M.vbproj.CoreCompileInputs.cache
+D:\2nd year_1st sem subjects\Fundamentals of Database Systems (Lab)\Activity1-M\Activity1-M\obj\Debug\Activity1-M.exe
+D:\2nd year_1st sem subjects\Fundamentals of Database Systems (Lab)\Activity1-M\Activity1-M\obj\Debug\Activity1-M.xml
+D:\2nd year_1st sem subjects\Fundamentals of Database Systems (Lab)\Activity1-M\Activity1-M\obj\Debug\Activity1-M.pdb
