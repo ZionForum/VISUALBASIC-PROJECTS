@@ -1,0 +1,12 @@
+D:\2nd year_1st sem subjects\Fundamentals of Database Systems (Lab)\PrelimExamLab\PrelimExamLab\bin\Debug\PrelimExamLab.exe.config
+D:\2nd year_1st sem subjects\Fundamentals of Database Systems (Lab)\PrelimExamLab\PrelimExamLab\bin\Debug\PrelimExamLab.exe
+D:\2nd year_1st sem subjects\Fundamentals of Database Systems (Lab)\PrelimExamLab\PrelimExamLab\bin\Debug\PrelimExamLab.pdb
+D:\2nd year_1st sem subjects\Fundamentals of Database Systems (Lab)\PrelimExamLab\PrelimExamLab\bin\Debug\PrelimExamLab.xml
+D:\2nd year_1st sem subjects\Fundamentals of Database Systems (Lab)\PrelimExamLab\PrelimExamLab\obj\Debug\PrelimExamLab.vbproj.AssemblyReference.cache
+D:\2nd year_1st sem subjects\Fundamentals of Database Systems (Lab)\PrelimExamLab\PrelimExamLab\obj\Debug\PrelimExamLab.Form1.resources
+D:\2nd year_1st sem subjects\Fundamentals of Database Systems (Lab)\PrelimExamLab\PrelimExamLab\obj\Debug\PrelimExamLab.Resources.resources
+D:\2nd year_1st sem subjects\Fundamentals of Database Systems (Lab)\PrelimExamLab\PrelimExamLab\obj\Debug\PrelimExamLab.vbproj.GenerateResource.cache
+D:\2nd year_1st sem subjects\Fundamentals of Database Systems (Lab)\PrelimExamLab\PrelimExamLab\obj\Debug\PrelimExamLab.vbproj.CoreCompileInputs.cache
+D:\2nd year_1st sem subjects\Fundamentals of Database Systems (Lab)\PrelimExamLab\PrelimExamLab\obj\Debug\PrelimExamLab.exe
+D:\2nd year_1st sem subjects\Fundamentals of Database Systems (Lab)\PrelimExamLab\PrelimExamLab\obj\Debug\PrelimExamLab.xml
+D:\2nd year_1st sem subjects\Fundamentals of Database Systems (Lab)\PrelimExamLab\PrelimExamLab\obj\Debug\PrelimExamLab.pdb
